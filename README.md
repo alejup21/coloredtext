@@ -2,7 +2,6 @@ Allow color diferent part of a string in a easy way
 <br>
 <h1>Example:</h1>
 <br>
-colored("Hello everyone, <green>Happy</green> <lightred>New</lightred> <blue>Year</blue>")
+<img src="assets/example2.png" height=30 />
 <br>
-<img src="assets/example2.png" height=50 />
-<img src="assets/example.png" height=50 />
+<img src="assets/example.png" height=30 />
